@@ -1,1 +1,1 @@
-# Advice_Generator
+# Quote_Generator
